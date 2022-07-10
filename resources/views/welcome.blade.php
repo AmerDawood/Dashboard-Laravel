@@ -22,8 +22,10 @@
   <main class="main-content position-relative border-radius-lg ">
     
      <!-- Navbar -->
-    @include('layout.main-header')
- 
+
+       @include('layout.main-header')
+      
+     
      <!-- End Navbar -->
 
 
@@ -410,9 +412,7 @@
               <!-- End Footer -->
 
     </div>
-
-
-
+    
      <!-- End Content -->
      
   </main>
